@@ -1,0 +1,8 @@
+python_a2a
+langchain-openai
+langchain-core
+langchain
+yfinance
+pandas
+requests
+beautifulsoup4
